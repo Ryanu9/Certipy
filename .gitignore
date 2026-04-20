@@ -154,3 +154,5 @@ testing/
 *.pfx
 *.pem
 *.ccache
+.vscode/mcp.json
+.github/copilot-instructions.md
