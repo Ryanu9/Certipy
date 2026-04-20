@@ -14,6 +14,8 @@ applied on top of.
 - Example custom command: `certipy example`.
 - `scripts/sync-upstream.ps1` helper for fetching upstream + open PRs.
 - `FORK_NOTICE.md` describing fork policy.
+- Merge upstream PR #344: Enum ESC17
+- Merge feature/enumerate-enrollment-agent-restrictions
 
 ### Changed
 - `.gitignore`: ignore `.vscode/mcp.json` and `.github/copilot-instructions.md`.
